@@ -1,0 +1,5 @@
+name: myapp
+
+dependencies:
+    http: ^0.14.0
+    image: ^3.0.1
